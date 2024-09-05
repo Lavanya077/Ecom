@@ -1,3 +1,0 @@
-<template>
-  <veutify/>
-</template>
